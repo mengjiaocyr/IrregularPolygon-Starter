@@ -3,6 +3,8 @@ public class Main {
     {
         IrregularPolygon myPolygon = new IrregularPolygon();
         myPolygon.draw();
+
+        TestSuite.run();
     }
     
 }
